@@ -8,11 +8,18 @@ It print a 3D Cube using Vertex Engine made in PhP Only.
 
 ## Current build status
 
-| build config | status |
-|:-------------|:-------|
-| Linux        | [![Build Status](#) |
-| Windows      | [![Coming soon](#) |
-
+0.1:
+- Color   class OK: Used to print a gradient color around the Cube
+- Vector  class OK: Used to print a vector to x,y,z coordinates, in
+correlation with the Color class.
+- Vertex  class OK: Used to print a specify point used to Camera
+static orientation in correlation with the Vector + Color class.
+- Matrix  class Coming: Used to print the 4 cartesian points in correlation
+with the Vertex + Vector + Color class.
+- Camera  Class Coming: Used to print about a define point a Cube angle in
+correlation with Matrix + Vertex + Vector + Color class.
+- Triangle Class Coming: Used to print a Triangle in correlation with Matrix +
+Vertex + Vector + Color class.
 
 ## From
 
