@@ -4,7 +4,7 @@
 ## About this
 
 The projet is a personnal research about PhP in Unix Terminal.
-It print a 3D Cube using Vertex Engine made in PhP Only.
+It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
 
 ## Current build status
 

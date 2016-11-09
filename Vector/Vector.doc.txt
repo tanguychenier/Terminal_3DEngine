@@ -1,0 +1,13 @@
+Used to handles space 3D vectors.
+
+Method for this class are:
+- Magnitude: Norm of the instanced Vector
+- Normalize: give the normalized corresponding vector.
+- add	   : the result of the addition between the current
+and $ instance.
+- sub	   : ""substaction result betweend"".
+- opposite : opposite vector.
+- scalarProduct: return the product of the constant $k &
+current instance.
+- cos 	   : return cosinus between new and $v.
+- crossProduct: r(cross product) of new and $v.

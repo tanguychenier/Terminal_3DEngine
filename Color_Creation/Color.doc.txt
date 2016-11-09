@@ -1,0 +1,31 @@
+Tchenier - Personnal Work: Color Handle
+***************************************
+This class handles RBG colors,
+and waiting for parameter is his
+constructor method.
+-----------------------------
+HOW TO:
+******
+$red 	= 255;
+$green 	= $red;
+$blue 	= $green;
+- Instance color by typing:
+	new Color(array(
+	'red' 	=> $red,
+	'blue' 	=> $blue,
+	'green 	=> $green));
+******
+$x = 12345;
+- Instance color by typing:
+	new Color(array(
+	'rgb'	=> x);
+******
+Thoses values are convert into int by
+"intvalue" method and does not support
+more than 255 or less than 0.
+******
+Also provide methods add(), sub(), mult():
+- Add each color,
+- Substracts each color,
+- Multiplies each color,
+- and return thoses new values with an new Instance.

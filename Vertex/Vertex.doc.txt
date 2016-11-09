@@ -1,0 +1,14 @@
+This class is used in complement to the Color creation class.
+Handles a space 3D Vertexes. -> go to google "homogeneous coordinate".
+
+About 3 points as: x, y, z.
+About 1 homogeneous coordinate as: w.
+About 1 color used in Instance of the Color class.
+
+This will encapsulate the coordinate & giving accessor in RONLY/WONLY.
+By default, the color is white.
+************************
+HOW TO:
+- By typing "php ../ressources/main_01.php"
+- Init. an instance with new Vertex(array('x' =>1.0, 'y'=>0.0, 'z'=>0.0));
+- Can add a constructor with "Vertex(array[x,y,z], 'w'=>2.0, 'color'=>#color)"
