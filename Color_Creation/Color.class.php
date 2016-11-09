@@ -49,17 +49,4 @@
                 echo fgets($read);
             echo "\n";
         }
-    }
-$test = new Color(array('rgb' => 12345));
-$test2 = new Color(array('red' => 22, 'green', 'blue'));
-printf("\n*************\nPlease choose a specter color between Red, Green and Blue\n************\n");
-
-echo $test2;
-printf("\n");
-echo $test;
-printf("\n");
-echo "\ncurrent repertory: ".$argv[0]."\nYour input: ".$argv[1]."\n";
-printf("Enter your value\n");
-$input = fgets(STDIN);
-echo 'Your values are: '.$input;
 ?>
