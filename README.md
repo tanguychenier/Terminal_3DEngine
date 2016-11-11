@@ -21,10 +21,6 @@ correlation with Matrix + Vertex + Vector + Color class.
 - Triangle Class Coming: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
 
-## From
-
-- AFPA-Center: `Session 2016-2017 - Duboeuf Team`
-
 ### Quick start
 
 How to use:
@@ -36,3 +32,6 @@ x = 01, 02, ...
 each of these will explain the process about the homogeneous coordinates
 implement in a 3D variation static system.
 ```
+## From
+
+- AFPA-Center: `Session 2016-2017 - Duboeuf Team`
