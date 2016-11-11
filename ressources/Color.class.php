@@ -49,8 +49,5 @@
                 echo fgets($read);
             echo "\n";
         }
-<<<<<<< HEAD
-=======
       }
->>>>>>> origin/master
 ?>
