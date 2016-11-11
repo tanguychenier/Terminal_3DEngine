@@ -1,17 +1,15 @@
 <?php
-require_once('../Color_Creation/Color.class.php');
+require_once('Color.class.php');
 
 class Vertex
 {
 		private $_x;
 		private $_y;
 		private $_z;
-		private $_w;
+		private $_w = 1;
 		private $_color;
-		static	$verbose;
+		static	$verbose = false;
 
-		$_w 			= 1;
-		$verbose 	= false;
 		public function __construct($xyzc)
 		{
 			$this->_x = $xyzc['x'];
