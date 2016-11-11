@@ -1,17 +1,28 @@
 <?php
+<<<<<<< HEAD
 require_once('../Color_Creation/Color.class.php');
+=======
+require_once('Color.class.php');
+>>>>>>> origin/master
 
 class Vertex
 {
 		private $_x;
 		private $_y;
 		private $_z;
+<<<<<<< HEAD
 		private $_w;
 		private $_color;
 		static	$verbose;
 
 		$_w 			= 1;
 		$verbose 	= false;
+=======
+		private $_w = 1;
+		private $_color;
+		static	$verbose = false;
+
+>>>>>>> origin/master
 		public function __construct($xyzc)
 		{
 			$this->_x = $xyzc['x'];
