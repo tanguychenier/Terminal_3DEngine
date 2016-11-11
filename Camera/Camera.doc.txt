@@ -1,0 +1,12 @@
+Camera Class, used to print physically.
+
+The constructor is waiting for an array with:
+- origin : A Vertex for position camera.
+- orientation : A Matrix for orientation cameria
+- ratio : The quotient of the screen.
+- width and height : Integers for the size of the screen
+- fov : View field in °
+- near : Clipping near plan
+- far : Clipping far plan
+
+https://fr.wikipedia.org/wiki/Clipping_(infographie)

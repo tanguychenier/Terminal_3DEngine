@@ -30,7 +30,7 @@ Vertex + Vector + Color class.
 How to use:
 
 ```
-Run in you terminal php main[x].php
+Run in you terminal ressources/php main[x].php
 x = 01, 02, ...
 
 each of these will explain the process about the homogeneous coordinates
