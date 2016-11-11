@@ -8,7 +8,7 @@ It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
 
 ## Current build status
 
-0.1:
+0.8:
 - Color   class OK: Used to print a gradient color around the Cube
 - Vector  class OK: Used to print a vector to x,y,z coordinates, in
 correlation with the Color class.
