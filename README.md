@@ -14,9 +14,9 @@ It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
 correlation with the Color class.
 - Vertex  class OK: Used to print a specify point used to Camera
 static orientation in correlation with the Vector + Color class.
-- Matrix  class Coming: Used to print the 4 cartesian points in correlation
+- Matrix  class OK: Used to print the 4 cartesian points in correlation
 with the Vertex + Vector + Color class.
-- Camera  Class Coming: Used to print about a define point a Cube angle in
+- Camera  Class OK: Used to print about a define point a Cube angle in
 correlation with Matrix + Vertex + Vector + Color class.
 - Triangle Class Coming: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
