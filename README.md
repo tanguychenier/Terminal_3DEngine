@@ -16,8 +16,10 @@ correlation with the Color class.
 static orientation in correlation with the Vector + Color class.
 - Matrix  class OK: Used to print the 4 cartesian points in correlation
 with the Vertex + Vector + Color class.
-- Camera  Class OK: Used to print about a define point a Cube angle in
+- Camera  Class OK: Used to print about a define point with define angle in
 correlation with Matrix + Vertex + Vector + Color class.
+- Engine  Class In work: Used to print in 3D, the model with Vertex, Rasterize & Edge
+physical Value.
 - Triangle Class Coming: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
 
