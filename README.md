@@ -9,17 +9,17 @@ It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
 ## Current build status
 
 0.8:
-- Color   class OK: Used to print a gradient color around the Cube
+- Color   class OK: Used to print a gradient color around the Cube: https://fr.wikipedia.org/wiki/Codage_informatique_des_couleurs
 - Vector  class OK: Used to print a vector to x,y,z coordinates, in
-correlation with the Color class.
+correlation with the Color class: https://fr.wikipedia.org/wiki/Vecteur_(structure_de_donn%C3%A9es)
 - Vertex  class OK: Used to print a specify point used to Camera
-static orientation in correlation with the Vector + Color class.
+static orientation in correlation with the Vector + Color class: https://fr.wiktionary.org/wiki/vertex
 - Matrix  class OK: Used to print the 4 cartesian points in correlation
-with the Vertex + Vector + Color class.
+with the Vertex + Vector + Color class: https://fr.wikipedia.org/wiki/Matrice_(math%C3%A9matiques)
 - Camera  Class OK: Used to print about a define point with define angle in
-correlation with Matrix + Vertex + Vector + Color class.
+correlation with Matrix + Vertex + Vector + Color class: https://fr.wikipedia.org/wiki/Clipping_(infographie)
 - Engine  Class In work: Used to print in 3D, the model with Vertex, Rasterize & Edge
-physical Value.
+physical Value in correlation with Camera + Matrix + Vertex + Vector + Color class: https://fr.wikipedia.org/wiki/Moteur_3D
 - Triangle Class Coming: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
 
