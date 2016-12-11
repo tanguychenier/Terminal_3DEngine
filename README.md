@@ -9,7 +9,6 @@ It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
 ## Current build status
 
 0.9:
-```
 - Color   Class OK: Used to print a gradient color around the Cube: https://fr.wikipedia.org/wiki/Codage_informatique_des_couleurs
 - Vector  Class OK: Used to print a vector to x,y,z coordinates, in
 correlation with the Color class: 
@@ -28,7 +27,6 @@ physical Value in correlation with Camera + Matrix + Vertex + Vector + Color cla
 https://fr.wikipedia.org/wiki/Moteur_3D
 - Triangle Class WORK IN PROGRESS: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
-```
 ### Quick start
 
 How to use:
