@@ -27,6 +27,7 @@ physical Value in correlation with Camera + Matrix + Vertex + Vector + Color cla
 https://fr.wikipedia.org/wiki/Moteur_3D
 - Triangle Class WORK IN PROGRESS: Used to print a Triangle in correlation with Matrix +
 Vertex + Vector + Color class.
+
 ### Quick start
 
 How to use:
