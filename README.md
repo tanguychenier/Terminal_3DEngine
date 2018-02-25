@@ -4,15 +4,16 @@
 ## About this
 
 The projet is a personnal research about PhP in Unix Terminal.
-It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.<br/>
+It print a 3D Cube using Vertex, Rasterize and Edge Engine made in PhP Only.
+___
 EDGE:<br/>
-![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_edge.png)<br/>;
+![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_edge.png)<br/>
 ___
 RASTERIZE:<br/>
-![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_rasterize.png)<br/>;
+![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_rasterize.png)<br/>
 ___
 VERTEX:<br/>
-![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_vertex.png)<br/>;
+![alt text](https://github.com/cerb3re/Terminal_3DEngine/blob/master/ressources/render_vertex.png)<br/>
 
 
 ## Current build status
