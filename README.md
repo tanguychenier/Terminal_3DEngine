@@ -1,5 +1,5 @@
-#3D CUBE PhP Terminal Engine - Tchenier
-#AFPA 2016-2017
+#3D CUBE PhP Terminal Engine
+
 
 ## About this
 
@@ -51,4 +51,4 @@ implement in a 3D variation static system.
 ```
 ## From
 
-- AFPA-Center: `Session 2016-2017 - Duboeuf Team`
+- `Tchenier`
